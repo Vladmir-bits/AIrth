@@ -1,6 +1,6 @@
-# AIrth - AI-Driven Energy Management
+# AIrth - AI-Driven Energy Management / Carbon Credit Marketplace on Solana
 
-AIrth is an innovative platform that utilizes AI to optimize energy use and reduce emissions in business operations.
+AIrth is an innovative platform that utilizes AI to optimize energy use, reduce emissions in business operations, and allow users to trade their carbon credit with Solana crypto.
 
 ## Features
 - Predictive energy consumption modeling.
